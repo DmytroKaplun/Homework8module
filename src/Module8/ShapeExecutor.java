@@ -8,7 +8,7 @@ public class ShapeExecutor {
 
     public static void main(String[] args) {
      Shape circle = new Circle("circle");
-     Shape quad = new Quad("quad");git add
+     Shape quad = new Quad("quad");
      Shape rectangle = new Rectangle("rectangle");
      Shape square = new Square("square");
      Shape triangle = new Triangle("an equilateral triangle", 4, 5, 8);
